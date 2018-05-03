@@ -13,6 +13,10 @@ Template.<%= templateName %>.onCreated(function() {
 
 });
 
+Template.<%= templateName %>.onRendered(function() {
+
+});
+
 Template.<%= templateName %>.onDestroyed(function() {
 
 });
