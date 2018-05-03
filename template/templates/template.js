@@ -14,10 +14,12 @@ Template.<%= templateName %>.onCreated(function() {
 });
 
 Template.<%= templateName %>.onRendered(function() {
+  const tpl = this;
 
 });
 
 Template.<%= templateName %>.onDestroyed(function() {
+  const tpl = this;
 
 });
 
