@@ -1,5 +1,5 @@
 {
-  "name": "generator-qualia-meteor",
+  "name": "@qualialabs/generator-qualia-meteor",
   "version": "1.0.0",
   "description": "Generate Qualia-style Blaze templates",
   "scripts": {

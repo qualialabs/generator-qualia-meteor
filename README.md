@@ -4,7 +4,7 @@ Generate Qualia-style Blaze templates
 ## Install
 
 ```
-npm install -g yo generator-qualia-meteor
+npm install -g yo @qualialabs/generator-qualia-meteor
 ```
 
 ## Usage
