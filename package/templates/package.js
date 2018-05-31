@@ -7,6 +7,7 @@ Package.describe({
 });
 
 var dependencies = [
+  'templating',
   'ecmascript',
   'underscore',
 ];
