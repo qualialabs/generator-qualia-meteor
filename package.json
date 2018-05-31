@@ -12,6 +12,7 @@
   ],
   "dependencies": {
     "decamelize": "^2.0.0",
+    "underscore": "^1.9.0",
     "yeoman-generator": "^2.0.4"
   }
 }
