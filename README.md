@@ -13,7 +13,7 @@ npm install -g yo @qualialabs/generator-qualia-meteor
 
 ```
 cd dir/in/which/to/create/templates
-yo qualia-meteor:template
+yo @qualialabs/qualia-meteor:template
 ```
 
 Enter the name of your template to generate it:
@@ -29,7 +29,7 @@ Enter the name of your template to generate it:
 
 ```
 cd dir/in/which/to/create/package-files
-yo qualia-meteor:package
+yo @qualialabs/qualia-meteor:package
 ```
 
 Answer the prompts to generate your package files:
