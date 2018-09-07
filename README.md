@@ -20,9 +20,9 @@ Enter the name of your template to generate it:
 
 ```
 ? New template name myTemplateName
-   create my-template-name.html
-   create my-template-name.js
-   create my-template-name.css
+   create my_template_name.html
+   create my_template_name.js
+   create my_template_name.css
 ```
 
 ### Create a Meteor package
