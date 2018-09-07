@@ -25,7 +25,7 @@ module.exports = class extends Generator {
       'template.css',
     ];
 
-    const baseName = decamelize(this.context.templateName, '-');
+    const baseName = decamelize(this.context.templateName, '_');
 
     paths.forEach(inPath => {
       const outPath = inPath.replace('template', baseName);
