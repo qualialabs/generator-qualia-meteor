@@ -29,8 +29,10 @@ module.exports = class extends Generator {
     const templates = [
       'package.js',
       'README.md',
-      'client/main.js',
-      'server/main.js',
+      'client/index.js',
+      'common/collection.js',
+      'common/index.js',
+      'server/index.js',
     ];
 
     templates.forEach(inPath => {
